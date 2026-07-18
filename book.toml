@@ -2,3 +2,6 @@
 title = "Networking for Non-Network Engineers"
 authors = ["kaveh moradian"]
 language = "en"
+
+[output.html]
+preferred-dark-theme = "coal"
