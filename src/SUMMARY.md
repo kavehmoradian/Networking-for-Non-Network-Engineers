@@ -15,9 +15,9 @@
 
 # Part II - Linux Networking Basics
 
-- [Linux Network Interfaces]()
-- [How Linux Makes Routing Decisions]()
-- [Observing Network Traffic on Linux]()
+- [Linux Network Interfaces](part2/interfaces.md)
+- [How Linux Makes Routing Decisions](part2/routing-linux.md)
+- [Observing Network Traffic on Linux](part2/traffic.md)
 - [Understanding Linux Network Connections]()
 - [Build a Small Linux Network]()
 
