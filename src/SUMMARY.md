@@ -18,8 +18,8 @@
 - [Linux Network Interfaces](part2/interfaces.md)
 - [How Linux Makes Routing Decisions](part2/routing-linux.md)
 - [Observing Network Traffic on Linux](part2/traffic.md)
-- [Understanding Linux Network Connections]()
-- [Build a Small Linux Network]()
+- [Understanding Linux Network Connections](part2/connections.md)
+- [Build a Small Linux Network](part2/lab-small-network.md)
 
 # Part III - Virtual Networking
 
